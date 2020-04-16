@@ -13,7 +13,6 @@ export class Home extends Component {
              level3:false,
              level4:false,
              paragraphvalue :''
-
         }
     }
     ChangeHandler = (a) => {
