@@ -5,7 +5,7 @@ import './App.css';
 import Person from './Person/Person';
 import Home from './Home';
 import { render } from '@testing-library/react';
-
+this is kritika
 class App extends Component{ 
   state = {
     persons:[
@@ -40,6 +40,8 @@ class App extends Component{
       ]
     })
   }
+  
+  Kamal SIngh
 
   nameChangehandler = (event) =>{
     this.setState({
