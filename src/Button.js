@@ -4,7 +4,7 @@ export class Button extends Component {
     render() {
         return (
             <div>
-              <button onClick ={this.props.click}>Hello1{this.props.value}</button>  
+              <button onClick ={this.props.click}>Hello3{this.props.value}</button>  
             </div>
         )
     }
